@@ -1,4 +1,4 @@
-# 🌐 Andonii Vlada — Portfolio Website
+# 🌐 MAKHOVA VARVARA — Portfolio Website
 
 Welcome to my personal portfolio website, built with **React**.  
 This site showcases who I am, what I do, and how to contact me.  
