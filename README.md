@@ -34,6 +34,5 @@ docker build -t my-react-app .
 docker compose up --build .
 ![Приложение запущено, контейнер работает](./images/docker-up.png)
 
-
-
+### Ссылка на проект https://github.com/V1Mah/portfolio
 
